@@ -1,0 +1,12 @@
+open facebook
+close facebook
+play music
+stop music
+open linkedin
+close linkedin
+open store
+close store
+start browser
+close browser
+open github
+close github
